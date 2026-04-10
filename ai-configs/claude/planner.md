@@ -32,4 +32,4 @@ upsert_document(
 | FocusOn | 🟡 제출 준비 | AdMob ID 확정 후 제출 |
 
 ---
-*Last synced: 2026-04-10T07:10:51.233875931*
+*Last synced: 2026-04-10T08:52:33.521051254*
