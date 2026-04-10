@@ -145,4 +145,4 @@ evolve_persona(
 > 채팅 종료 시: `update_my_status(memberId="...", currentTask="")` 로 상태 초기화
 
 ---
-*Last synced: 2026-04-10T07:10:47.893901115*
+*Last synced: 2026-04-10T08:52:29.957896095*
